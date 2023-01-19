@@ -1,5 +1,21 @@
 # Scalable and Globally Optimal Generalized L_1 k-center Clustering via Constraint Generation in Mixed Integer Linear Programming
 
+
+This is the official implementation of our paper [camera ready pdf here](/AAAI_2023_ChembuA.pdf) accepted to be presented at AAAI 2023. (Link will be updated soon)
+
+If you would like to cite this work, a sample bibtex citation is as following:
+
+
+```
+@inproceedings{chembu:aaai23,
+	author = {Aravinth Chembu and Scott Sanner and Hassan Khurram and Akshat Kumar},
+	title = {Scalable and Globally Optimal Generalized L1 k-center Clustering via Constraint Generation in Mixed Integer Linear Programming},
+	year = {2023},
+	booktitle = {Proceedings of the 37th {AAAI} Conference on Artificial Intelligence ({AAAI-23})},
+	address = {Washington D.C., USA}
+}
+```
+
 ## Setup 
 
 First, install the requirements
